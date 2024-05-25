@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/GGKOP/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGKOP)](https://github.com/Christmas/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGKOP)](https://github.com/GGKOP/github-readme-stats

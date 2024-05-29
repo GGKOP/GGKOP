@@ -63,5 +63,3 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/GGKOP/GGKOP/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GGKOP&theme=github-dark-dimmed&custom_title=GGKOP%20Activity%20Graph&hide_border=true)](https://github.com/GGKOP/github-readme-activity-graph)
-
